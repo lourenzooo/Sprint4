@@ -1,0 +1,3 @@
+Link do a Azure Board: https://dev.azure.com/RM999510315/Nexora/_workitems/recentlyupdated/
+
+Link do Postman Com Os testes: https://lourenzo1310-9960904.postman.co/workspace/a02d4e5a-cb66-4364-84dc-10f6838f1305/run/49390736…
